@@ -1,0 +1,15 @@
+site_name: Electrochem AI Project
+site_description: "电化学 + AI 项目文档"
+site_author: "VIm-louie"
+
+nav:
+  - 首页: docs/index.md
+  - 数据: docs/data_overview.md
+  - 方法: docs/methods.md
+  - Demo: docs/demo.md
+
+theme:
+  name: material
+  language: zh
+plugins:
+  - search
